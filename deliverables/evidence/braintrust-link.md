@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Backend | _(Braintrust hoặc LangSmith — điền sau khi tạo project)_ |
-| Link project | _(dán link vào đây)_ |
+| Link project | - **Braintrust AI Evaluation:** [Link Project](https://www.braintrust.dev/app/HieuNM05/p/ai-evaluation) |
 | Run nào đã được trace | _(điền: judge lane / tutor lane / cả hai)_ |
 
 ## Tình trạng hạ tầng
